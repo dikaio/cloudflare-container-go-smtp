@@ -12,7 +12,7 @@ interface Env {
 
 class SMTPBackend extends Container {
   defaultPort = 8080;
-  sleepAfter = "2h";
+  sleepAfter = "30s";
   
   constructor(state: DurableObjectState, env: Env) {
     super(state, env);
