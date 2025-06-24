@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:developers.cloudflare.com)",
+      "Bash(mkdir:*)",
+      "Bash(docker build:*)"
+    ],
+    "deny": []
+  }
+}

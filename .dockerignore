@@ -1,0 +1,9 @@
+.env
+.env.example
+*.log
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+server.log

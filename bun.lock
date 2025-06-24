@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "@cloudflare/containers": "^0.0.13",
+      },
+    },
+  },
+  "packages": {
+    "@cloudflare/containers": ["@cloudflare/containers@0.0.13", "", {}, "sha512-qFO2ApEJGRfLlsOqK3ZkvpU3bl7Pj1SquXHs/uEgmK1FTBf2R908T8v7TUlxZpzaJbMM7rLRoCqT0vfUthRqWA=="],
+  }
+}
