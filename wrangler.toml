@@ -6,6 +6,9 @@ compatibility_date = "2024-06-24"
 name = "smtp-backend"
 image = { dockerfile = "Dockerfile" }
 
+[observability]
+enabled = true
+
 [env.production.vars]
 SERVER_PORT = "8080"
 
